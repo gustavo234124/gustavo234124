@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Gustavo-Aguilar-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@gustavo-aguilar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gustavo aguilar martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo aguilar martinez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-aguilar-martinez-1a1b451b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo aguilar martinez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22909330/gustavo-aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gustavo aguilar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100038844735140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo aguilar" height="30" width="40" /></a>
 <a href="https://instagram.com/guss_am83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guss_am83" height="30" width="40" /></a>
