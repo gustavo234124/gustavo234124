@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/22909330/gustavo-aguilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gustavo aguilar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100038844735140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo aguilar" height="30" width="40" /></a>
 <a href="https://instagram.com/guss_am83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guss_am83" height="30" width="40" /></a>
-  <a href="https://x.com/Gustavo73039394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guss_am83" height="30" width="40" /></a>
+  <a href="https://x.com/Gustavo73039394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x" alt="guss_am83" height="30" width="40" /></a>
 </p>
 
 
