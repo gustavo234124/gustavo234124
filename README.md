@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **the syntax of different frameworks besides specializing in javaScript**
 
-- 👨‍💻 All of my projects are available at [https://gustavo234124.github.io/segundo-portafolio/](https://gustavo234124.github.io/segundo-portafolio/)
+- 👨‍💻 All of my projects are available at [https://gustavo234124.github.io/portafolioDeProyectos/)
 
 - 💬 Ask me about **things related to the world of web development**
 
