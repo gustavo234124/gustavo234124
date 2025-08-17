@@ -18,7 +18,8 @@ It includes a full UI/UX design in Figma, both frontend and backend development,
 
 🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, Spotify API, Custom Hooks, UX/UI in Figma.
 
-🔗 Demo: PomodoBySpotify.vercel.app     📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
+🔗 Demo: PomodoBySpotify.vercel.app    
+📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
 
 ## 🛒 Freelance Developer – Agriviva: Online Product Catalog
 
@@ -26,7 +27,8 @@ I was hired as a freelance developer to create Agriviva from scratch. This web a
 
 🧱 Tech Stack: Astro, React, Tailwind CSS, Figma, UI Component Design, Dynamic Routing.
 
-🔗 Demo: agriviva.vercel.app    📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
+🔗 Demo: agriviva.vercel.app    
+📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
 ---
 
 ## 🌐 Socials:
