@@ -18,6 +18,15 @@ It includes a full UI/UX design in Figma, both frontend and backend development,
 
 🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, Spotify API, Custom Hooks, UX/UI in Figma.
 
+
+## 🛒 Freelance Developer – Agriviva: Online Product Catalog
+
+I was hired as a freelance developer to create Agriviva from scratch. This web application serves as a product catalog with a modern, responsive UI. I handled both the design and development, starting from Figma wireframes to a fully functional site built with Astro, React, and Tailwind CSS, ensuring optimal performance and clean component-based architecture.
+
+🧱 **Tech Stack:** Astro, React, Tailwind CSS, Figma, UI Component Design, Dynamic Routing.
+
+🔗 **Demo:** [agriviva.vercel.app](https://agriviva.vercel.app)  
+📁 **Repositorio:** [https://github.com/gustavo234124/Agriviva)
 ---
 
 ## 🌐 Socials:
