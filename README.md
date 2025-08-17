@@ -13,10 +13,10 @@
 
   ## 👨‍💼 Founder & CEO – PomodoroBySpotify
 
-Yo mismo diseñé, desarrollé e implementé esta aplicación desde cero.
-Incluye diseño completo en Figma, desarrollo frontend y backend con integración a la API de Spotify, control de alarmas, notificaciones, sonidos personalizables, lógica modular y una          experiencia visual y funcional optimizada para la productividad.
-  
-🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, API de Spotify, Custom Hooks, UX/UI en Figma.
+I personally designed, developed, and implemented this application from scratch.
+It includes a full UI/UX design in Figma, both frontend and backend development, integration with the Spotify API, alarm controls, notification handling, customizable sounds, modular logic, and an optimized visual and functional experience focused on productivity.
+
+🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, Spotify API, Custom Hooks, UX/UI in Figma.
 
 ---
 
@@ -43,4 +43,4 @@ Incluye diseño completo en Figma, desarrollo frontend y backend con integració
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-
+> 🌐 This README is also available in [Version in Spanish 🇲🇽](./README.es.md)
