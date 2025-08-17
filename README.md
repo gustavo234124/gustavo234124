@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **the creator of HTML was Tim Berners-Lee as well as being the founder of W3C**
 
-  ## 👨‍💼 Founder & CEO – PomodoroBySpotify
+  ## 👨‍💼 Founder & Developer – PomodoroBySpotify
 
 I personally designed, developed, and implemented this application from scratch.
 It includes a full UI/UX design in Figma, both frontend and backend development, integration with the Spotify API, alarm controls, notification handling, customizable sounds, modular logic, and an optimized visual and functional experience focused on productivity.
