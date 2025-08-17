@@ -21,6 +21,8 @@ Incluye diseño completo en Figma, desarrollo frontend y backend con integració
 
 🧱 Stack Tecnológico: Next.js, React, Tailwind CSS, Vite, API de Spotify, Custom Hooks, UX/UI en Figma.
 
+🔗 Demo: agriviva.vercel.app
+📁 Repositorio: [https://github.com/gustavo234124/PomodoroBySpotify)
 
 ## 🛒 Desarrollador Freelance – Agriviva: Catálogo de Productos Online
 
