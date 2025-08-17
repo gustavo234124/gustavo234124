@@ -13,10 +13,10 @@
 
   ## 👨‍💼 Founder & CEO – PomodoroBySpotify
 
-Yo mismo diseñé, desarrollé e implementé esta aplicación desde cero.  
-Incluye integración con Spotify, control de alarmas, notificaciones, sonidos personalizables, diseño modular y una experiencia visual/funcional optimizada para productividad.
-
-🧱 Tech Stack: React, Tailwind CSS, Vite, API de Spotify, Custom Hooks, UX/UI en Figma.
+Yo mismo diseñé, desarrollé e implementé esta aplicación desde cero.
+Incluye diseño completo en Figma, desarrollo frontend y backend con integración a la API de Spotify, control de alarmas, notificaciones, sonidos personalizables, lógica modular y una          experiencia visual y funcional optimizada para la productividad.
+  
+🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, API de Spotify, Custom Hooks, UX/UI en Figma.
 
 ---
 
