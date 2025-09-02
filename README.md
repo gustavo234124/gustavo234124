@@ -28,7 +28,7 @@ I was hired as a freelance developer to create Agriviva from scratch. This web a
 🧱 Tech Stack: Astro, React, Tailwind CSS, Figma, UI Component Design, Dynamic Routing.
 
 🔗 Demo: agriviva.vercel.app    
-📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
+📁 Repository: [https://github.com/gustavo234124/Agriviva)
 ---
 
 ## 🌐 Socials:
