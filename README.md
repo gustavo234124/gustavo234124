@@ -11,16 +11,6 @@
 
 - ⚡ Fun fact **the creator of HTML was Tim Berners-Lee as well as being the founder of W3C**
 
-  ## 👨‍💼 Founder & Developer – PomodoroBySpotify
-
-I personally designed, developed, and implemented this application from scratch.
-It includes a full UI/UX design in Figma, both frontend and backend development, integration with the Spotify API, alarm controls, notification handling, customizable sounds, modular logic, and an optimized visual and functional experience focused on productivity.
-
-🧱 Tech Stack: Next.js, React, Tailwind CSS, Vite, Spotify API, Custom Hooks, UX/UI in Figma.
-
-🔗 Demo: PomodoBySpotify.vercel.app    
-📁 Repository: [https://github.com/gustavo234124/PomodoroBySpotify)
-
 ## 🛒 Freelance Developer – Agriviva: Online Product Catalog
 
 I was hired as a freelance developer to create Agriviva from scratch. This web application serves as a product catalog with a modern, responsive UI. I handled both the design and development, starting from Figma wireframes to a fully functional site built with Astro, React, and Tailwind CSS, ensuring optimal performance and clean component-based architecture.
