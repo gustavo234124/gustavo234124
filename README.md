@@ -46,5 +46,8 @@ Specializing in building modern, responsive web applications with React, Next.js
 📧 gustavoaguilarmartinez891@gmail.com
 🌐 [Portfolio](https://eltavodev.tech) (coming soon)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
-🇲🇽 **[Ver versión en Español](./README_ES.md)**
+🇲🇽 **[Ver versión en Español](./README.ES.md)**
