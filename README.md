@@ -51,7 +51,7 @@ Specializing in building modern, responsive web applications with React, Next.js
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) (coming soon)
+Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) 
 ---
 
 ### 📫 Contact
@@ -59,4 +59,4 @@ Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) (coming soon)
 🌐 [Portfolio](https://eltavodev.tech)
 
 ---
-🇲🇽 **[Ver versión en Español](./README.es.md)**
+🇲🇽 **[Ver versión en Español](/README.es.md)**
