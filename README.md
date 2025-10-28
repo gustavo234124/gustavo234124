@@ -7,12 +7,6 @@ Specializing in building modern, responsive web applications with React, Next.js
 
 ---
 
-### 💼 Professional Experience
-- **Frontend Developer** at [Codelan] (Remote)
-- Teach Led frontend architecture on production projects
-- Version manager: Git workflow, PR reviews, and release management
-
----
 
 ### 🚀 Featured Projects
 
@@ -57,16 +51,12 @@ Specializing in building modern, responsive web applications with React, Next.js
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-### 🌱 Currently
-- Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) (coming soon)
-- Expanding expertise in modern frontend architecture
-- Open to frontend development opportunities (remote preferred)
-
+Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) (coming soon)
 ---
 
 ### 📫 Contact
 📧 gustavoaguilarmartinez891@gmail.com
-🌐 [Portfolio](https://eltavodev.tech) (coming soon)
+🌐 [Portfolio](https://eltavodev.tech)
 
 ---
-🇲🇽 **[Ver versión en Español](./README.ES.md)**
+🇲🇽 **[Ver versión en Español](./README.es.md)**
