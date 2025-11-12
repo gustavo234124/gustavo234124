@@ -13,10 +13,6 @@ Especializado en crear aplicaciones web modernas y responsivas.
 - Tech: Astro, React, Tailwind CSS
 - 🔗 [Demo en Vivo](https://www.agriviva.com.mx/) | [Repositorio](https://github.com/gustavo234124/Agriviva)
 
-**🎵 Pomodoro + Integración Spotify**
-- App de productividad con Spotify Web Playback SDK
-- Autenticación OAuth y control de música en tiempo real
-- Tech: Next.js, Spotify API
 
 ---
 
@@ -49,14 +45,12 @@ Especializado en crear aplicaciones web modernas y responsivas.
 
 ---
 
-Construyendo mi portafolio en [ElTavoDev.tech](https://eltavodev.tech) 
 
 ---
 
 ### 📫 Contacto
 
 📧 gustavoaguilarmartinez891@gmail.com  
-🌐 [Portafolio](https://eltavodev.tech)
 
 ---
 
