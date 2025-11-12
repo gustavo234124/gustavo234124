@@ -14,11 +14,7 @@ Specialized in creating modern, responsive web applications.
 - Tech: Astro, React, Tailwind CSS
 - 🔗 [Live Demo](https://www.agriviva.com.mx/) | [Repository](https://github.com/gustavo234124/Agriviva)
 
-**🎵 Pomodoro + Spotify Integration**
-- Productivity app with Spotify Web Playback SDK
-- OAuth authentication & real-time music control
-- Tech: Next.js, Spotify API
----
+
 
 ### 🛠️ Tech Stack
 
