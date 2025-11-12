@@ -44,8 +44,6 @@ Specialized in creating modern, responsive web applications.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ---
-
-Building my portfolio at [ElTavoDev.tech](https://eltavodev.tech) 
 ---
 
 ### 📫 Contact
