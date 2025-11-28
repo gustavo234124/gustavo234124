@@ -7,12 +7,6 @@ Specialized in creating modern, responsive web applications.
 ---
 
 
-### 🚀 Featured Projects
-
-**🛒 Agriviva** - Freelance E-commerce Catalog
-- Built from scratch: Figma design → Production
-- Tech: Astro, React, Tailwind CSS
-- 🔗 [Live Demo](https://www.agriviva.com.mx/) | [Repository](https://github.com/gustavo234124/Agriviva)
 
 
 
