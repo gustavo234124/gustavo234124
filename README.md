@@ -10,8 +10,6 @@ Specialized in creating modern, responsive web applications.
 
 
 
-### 🛠️ Tech Stack
-
 ### 🛠️ Stack Tecnológico
 
 **Frontend:**
