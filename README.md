@@ -2,7 +2,8 @@
 
 ## Frontend Developer 
 
-Specialized in creating modern, responsive web applications.
+I am a web developer with a passion for detail and creativity.
+I am passionate about transforming ideas into attractive, intuitive, and vibrant interfaces through frontend development and UX/UI design.
 
 ---
 
